@@ -2,9 +2,13 @@ body {
     font-family: Arial, sans-serif;
     margin: 20px;
   }
-  
+  .editpage{
+    width: 50%;
+    margin: auto;
+  }
   h2, h3 {
     margin-bottom: 20px;
+    text-align: center;
   }
   
   .form-field {
@@ -25,6 +29,7 @@ body {
   
   .form-actions {
     margin-top: 20px;
+    text-align: center;
   }
   
   .form-actions button {
