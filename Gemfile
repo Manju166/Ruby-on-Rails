@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "rails", "~> 7.2.0.beta2"
+gem "rails", "~> 8.0.0.rc2"
 gem "sprockets-rails"
 gem "sqlite3", ">= 1.4"
 gem "importmap-rails"
